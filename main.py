@@ -10,8 +10,8 @@ class Dog:
     print(self.name + " rolled over!")
 
 
-dog1 = Dog("Fidough", 4)
-dog2 = Dog("Growlithe", 7)
+dog_1 = Dog("Fidough", 4)
+dog_2 = Dog("Growlithe", 7)
 
-dog1.sit()
-dog2.roll_over()
+dog_1.sit()
+dog_2.roll_over()
